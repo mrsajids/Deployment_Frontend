@@ -126,15 +126,6 @@ Globally, web hosting is commonly classified into the following **main types**, 
 
 
 ## How to host with VPS Hosting (Virtual Private Server)
-![Image](https://hostpro.com/blog/wp-content/uploads/2021/09/How-VPS-Works-01-1024x669.png)
-
-![Image](https://www.scalahosting.com/blog/wp-content/uploads/2021/10/spanel.png)
-
-![Image](https://manage.accuwebhosting.com/kb-images/connect-linux-vps-through-ssh/01-terminal-ssh-connection.png)
-
-![Image](https://truehost.com/support/wp-content/uploads/2022/10/Screenshot-from-2022-10-14-08-05-12-1024x617.png)
-
-![Image](https://lowendbox.com/wp-content/uploads/2019/04/leb-ssh-tut-6.jpg)
 
 Hosting a website with **VPS Hosting (Virtual Private Server)** gives you more control, performance, and flexibility than shared hosting. Below is a **clear, global-standard process** used by most VPS providers.
 
