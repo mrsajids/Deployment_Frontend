@@ -41,7 +41,8 @@
 
    Finished...
 
-   ## Changing .env or proxy
+
+## Changing .env or proxy
 1. Root login
    ```
    ssh root@www.locatetutor.com
